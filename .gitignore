@@ -21,9 +21,8 @@ data/*
 !data/*.yaml
 
 data/target_labels/*
-!data/target_labels/.gitignore
 data/keras_models/*
-!data/keras_models/.gitignore
+!data/*/.gitignore
 
 typescript
 re
