@@ -14,7 +14,7 @@ logs/
 code/__pycache__
 .ipynb_checkpoints/
 
-data/*
+data/*.*
 !data/*.html
 !data/*.png
 !data/*.pdf
