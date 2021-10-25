@@ -6,7 +6,7 @@
 
 typescript
 
-logs/
+logs/*.*
 !logs/.gitignore
 
 .snakemake
