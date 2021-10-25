@@ -1,0 +1,16 @@
+{
+    "database": "bth",
+    "adm_med_table": "nlpandmed.adm_med",
+    "preprocess_table": "nlpandmed.txt",
+    "tf_table": "nlpandmed.tf",
+    "tfidf_table": "nlpandmed.tfidf",
+    "keras_table": "nlpandmed.keras_data",
+    "labels_table": "nlpandmed.labels",
+    "eval_table": "nlpandmed.evaluation",
+    "visit_keys_table": "nlpandmed.visit_keys",
+    "predictions_table": "nlpandmed.predictions",
+    "predictions_dummy_table": "nlpandmed.predictions_dummy",
+    "term_vectors_table": "nlpandmed.term_vectors",
+    "label_frequencies_table": "nlpandmed.label_frequencies",
+    "signals_table": "nlpandmed.signals"
+}
