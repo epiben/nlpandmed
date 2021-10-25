@@ -1,0 +1,123 @@
+mental: 
+    asteni: 
+      - udtalt træthed
+      - kraftesløshed
+    sedation:  
+      - sløv
+      - sløvet
+      - sløvhed
+      - beroliget
+      - bedøvet
+      - sederet
+    depression:
+      - forsænket stemningsleje
+      - tristhed
+      - trist
+      - nedtrykthed
+      - nedtrykt
+    akatisi:
+      - indre uro
+      - ufrivillige bevægelser
+      - bevægeforstyrrelser
+      - bevægelsesforstyrrelser
+      - abnorme ufrivillige bevægelser  
+    indifferens: 
+      - apati
+      - apatisk
+
+neurological: 
+    dystoni: 
+      - vridende bevægelser
+      - bevægeforstyrrelser
+      - abnorme ufrivillige bevægelser
+    parkinsonisme: 
+      - motoriske forstyrrelser
+      - motoriske symptomer
+      - bevægeforstyrrelser
+    hyperkinesi: 
+      - øget muskelaktivitet
+      - ufrivillige bevægelser
+      - bevægeforstyrrelser
+    tremor: 
+      - rysten
+      - oscillerende bevægelser af en legemsdel
+      - ufrivillig rysten
+    indre uro: # UKU term: akatisi 
+      - akatisi
+      - ufrivillige bevægelser
+      - bevægeforstyrrelser
+      - bevægelsesforstyrrelser
+      - abnorme ufrivillige bevægelser 
+
+autonomous: 
+    hypersalivation: 
+      - mundvand
+      - savlen
+      - øget spytproduktion
+    mundtørhed: # UKU term: hyposalivation
+      - hyposalivation
+      - mb sjögren
+      - mb sjøgren
+    kvalme: 
+      - forkvalmet
+    opkastning: 
+      - emesis,
+      - hyperemesis
+      - opkast
+      - kastet op
+      - kaster op
+    obstiperet: # UKU term: obstipation
+      - forstoppelse
+      - forstoppet
+      - hård afføring
+      - hård mave
+      - obstipatio
+      - obstipation
+    vandladningsbesvær: 
+      - urinretention
+      - startbesvær
+      - slap stråle
+      - svag stråle
+      - efterdryp
+      - luts
+      - ufuldstændig blæretømning
+      - vandladningsproblemer
+    inkontinens: 
+      - urininkontinens
+      - ufrivillig vandladning
+      - ufrivillig urinafgang
+      - utæthed for urin
+      - urinlækage
+    ortostatisk svimmelhed: 
+      - ortostatisk hypotension
+      - stillingsbetinget lavt blodtryk
+      - svimmelhed
+      - stillingsbetinget hypotension
+
+other: 
+    vægtøgning: 
+      - fedme
+      - vægtstigning
+      - taget på
+      - overvægt
+      - tyk
+      - højt BMI
+      - overvægtig
+      - ernæringstilstand over middel
+    amenore: 
+      - menstruationsforstyrrelser
+      - uregelmæssig blødning
+      - fravær af menstruation
+    gynækomasti: 
+      - godartet forstørrelse af brystkirtelvæv # hos mænd
+      - vækst i brystkirtelvæv
+    galaktore: # hos mænd og ikke-ammende kvinder
+      - mælkeflåd,
+      - udskillelse af mælk fra bryst
+      - udskillelse af sekret fra bryst
+      - sekretion fra bryst
+      - flåd fra bryst
+    seksuelle bivirkninger:
+      - impotens
+      - forsinket sædafgang
+      - manglende seksuel lyst

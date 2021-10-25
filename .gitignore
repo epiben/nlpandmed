@@ -7,7 +7,8 @@
 typescript
 
 logs/
-.legacy/
+!logs/.gitignore
+
 .snakemake
 
 code/__pycache__
@@ -17,9 +18,12 @@ data/*
 !data/*.html
 !data/*.png
 !data/*.pdf
-data/target_label/*
-data/keras_models/*
+!data/*.yaml
 
+data/target_labels/*
+!data/target_labels/.gitignore
+data/keras_models/*
+!data/keras_models/.gitignore
 
 typescript
 re
