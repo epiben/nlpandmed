@@ -1,6 +1,6 @@
 # nlpandmed
 
-[![DOI](https://zenodo.org/badge/xxx.svg)](https://zenodo.org/badge/latestdoi/xxx)
+[![DOI](https://zenodo.org/badge/421156768.svg)](https://zenodo.org/badge/latestdoi/421156768)
 
 **Repo contributors**: [Benjamin Skov Kaas-Hansen](http://github.com/epiben) [code author], Davide Placido [code review], [Cristina Rodriguez Leal](http://github.com/crlero) [code review]
 
