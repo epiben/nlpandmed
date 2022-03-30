@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/421156768.svg)](https://zenodo.org/badge/latestdoi/421156768)
 
-**Repo contributors**: [Benjamin Skov Kaas-Hansen](http://github.com/epiben) [code author], Davide Placido [code review], [Cristina Rodriguez Leal](http://github.com/crlero) [code review]
+**Repo contributors**: [Benjamin Skov Kaas-Hansen](http://github.com/epiben) [code author], [Davide Placido](http://github.com/daplaci) [code review], [Cristina Rodriguez Leal](http://github.com/crlero) [code review]
 
 The repo holds the public version of our full analytic pipeline of the paper *Eliciting side effects from clinical notes: language-agnostic pharmacovigilant text mining*. Symlinks and other internal files have been removed as they are non-essential for reading the code in the repo and wouldn't port anyway.
 
