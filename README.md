@@ -7,7 +7,7 @@
 The repo holds the public version of our full analytic pipeline of the paper *Eliciting side effects from clinical notes: language-agnostic pharmacovigilant text mining*. Symlinks and other internal files have been removed as they are non-essential for reading the code in the repo and wouldn't port anyway.
 
 ### Related publications
-[Language-agnostic pharmacovigilant text mining to elicit side effects from clinical notes and hospital medication records [preprint]](https://doi.org/10.22541/au.164349930.05269919/v1)
+Kaas-Hansen, BS, Placido, D, Rodríguez, CL, et al. Language-agnostic pharmacovigilant text mining to elicit side effects from clinical notes and hospital medication records. Basic Clin Pharmacol Toxicol. 2022; 1-12. doi:[10.1111/bcpt.13773](https://doi.org/10.1111/bcpt.13773)
 
 ### Scope of study
 Develop a machine learning pipeline for safety signal detection in textual data from electronic medical records.
